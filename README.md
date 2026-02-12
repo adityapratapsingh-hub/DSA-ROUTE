@@ -1,4 +1,4 @@
 # DSA-ROUTE
-This rpo contain dsa specific ques
+This repo contain dsa specific ques
 
-Some Add..
+Some Add...
